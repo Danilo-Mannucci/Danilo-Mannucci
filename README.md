@@ -3,11 +3,10 @@
   </p>
       <h2 align="center" style="margin-top: 0x;">Hiya! :rice_ball:
       </h2>
-
-      
+    
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://www.clipstudio.net/en/">
-    <img width="70" alt="Clip Studio Paint" src="https://user-images.githubusercontent.com/107581955/173924092-175a06ab-6ce0-4fe1-aef9-8fe01c8efc7f.png">
+    <img width="70" alt="Clip Studio Paint" src="https://user-images.githubusercontent.com/107581955/173955588-3da6f6c4-7492-42ad-a859-3e4ede562a4d.png">
   </a>
 <a href="https://www.adobe.com/products/photoshop.html">
     <img width="50" alt="PhotoShop" src="https://user-images.githubusercontent.com/107581955/173926362-5b66e99f-394c-4f54-aad3-b4581250c152.png">
