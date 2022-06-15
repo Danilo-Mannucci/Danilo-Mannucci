@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173915411-ac84b26b-ab38-4a0f-bc1e-ab78159052d9.gif">
+   <img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif">
   </p>
       <h2 align="center" style="margin-top: 0x;">Hiya! :rice_ball:
       </h2>
@@ -7,8 +7,8 @@
   <h3 align="center">
    Hi, welcome to my page. ..... ..... ..... ...... .....
     </h3>
-    
-    
+
+
     
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://www.clipstudio.net/en/">
