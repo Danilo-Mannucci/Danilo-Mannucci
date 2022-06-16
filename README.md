@@ -1,8 +1,14 @@
-<img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif" align="right">
+<p align="right">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif" align="right">
+</p>
 
-<h3 align="left" style="margin-top: 0x;"> > Hiya! , I' m Danilo Mannucci :rice_ball:
+<h3 align="left"> > Hiya! , I' m Danilo Mannucci :rice_ball:
 </h3>
+
+<p>
+<a href="https://www.linkedin.com/">
 <img width="60" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
+</p>
 
 <h5 align="left">
  I'm self-taught Data Analyst and IT Technic. I love programming, art, music and more
@@ -11,11 +17,14 @@
  I also love Geek, meme, games and musical instruments
 </h6>
 
+
 <br>
 <br>
- <h4>
+
+
+<h4>
    About personal stuff:
-   </h4>
+</h4>
    
    
  <p align="left" style="margin-bottom: 0px !important;">
@@ -26,7 +35,6 @@
 
 
 
-</p>
 </img>
    
 **My Tool and Languages:**
