@@ -7,7 +7,7 @@
 
 <p>
 <a href="https://www.linkedin.com/">
-<img width="60" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/>
+<img width="60" alt="Linkedin" src="https://www.linkedin.com/in/danilomannucci/"/>
 </p>
 
 <h5 align="left">
