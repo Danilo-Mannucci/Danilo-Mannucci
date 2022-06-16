@@ -10,12 +10,12 @@
 <img width="60" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/>
 </p>
 
-<h5 align="left">
+<h4 align="left">
  I'm a self-taught Data Analyst and IT Technician. I love programming, art, music and more
-</h5>
-<h6>
+</h4>
+<h5>
  I also love geeks stuff, meme, games and musical instruments
-</h6>
+</h5>
 
 
 <br>
