@@ -1,16 +1,27 @@
-<p align="center">
-   <img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif">
-  </p>
-      <h2 align="center" style="margin-top: 0x;">Hiya! :rice_ball:
-      </h2>
-      
-  <h3 align="center">
-   Hi, ..... ..... ..... ...... .....
-    </h3>
+<h3 align="left" style="margin-top: 0x;"> > Hiya! , I' m Danilo Mannucci :rice_ball:
+</h3>
+<img width="60" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
+
+<h4 align="left">
+</h4>
+
+<img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif" align="right">
+
+ <h4>
+   About personal stuff:
+   </h4>
+   
+- 🔭 I’m currently working on my portfolio!
+
+- 🌱 I’m currently learning Data Science, ML and more!
 
 
-    
-<p align="center" style="margin-bottom: 0px !important;">
+
+</p>
+</img>
+   
+**My Tool and Languages:**
+<p align="left" style="margin-bottom: 0px !important;">
   <a href="https://www.clipstudio.net/en/">
     <img width="40" alt="Clip Studio Paint" src="https://user-images.githubusercontent.com/107581955/173955588-3da6f6c4-7492-42ad-a859-3e4ede562a4d.png">
   </a>
@@ -40,11 +51,8 @@
 </a>  
 
   
-  
-  
-  
+   
 </p>
-
 
 
 
