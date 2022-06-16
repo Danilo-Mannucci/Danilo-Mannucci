@@ -1,19 +1,28 @@
+<img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif" align="right">
+
 <h3 align="left" style="margin-top: 0x;"> > Hiya! , I' m Danilo Mannucci :rice_ball:
 </h3>
 <img width="60" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
 
-<h4 align="left">
-</h4>
+<h5 align="left">
+ I'm self-taught Data Analyst and IT Technic. I love programming, art, music and more
+</h5>
+<h6>
+ I also love Geek, meme, games and musical instruments
+</h6>
 
-<img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif" align="right">
-
+<br>
+<br>
  <h4>
    About personal stuff:
    </h4>
    
+   
+ <p align="left" style="margin-bottom: 0px !important;">
+ 
 - 🔭 I’m currently working on my portfolio!
 
-- 🌱 I’m currently learning Data Science, ML and more!
+- 🌱 I’m currently learning Data Science, ML and more
 
 
 
