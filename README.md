@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/107581955/173957237-37cc54ea-1957-408f-80b9-15505d568d69.gif" align="right">
 </p>
 
-<h3 align="left"> > Hiya! I'm Danilo Mannucci :rice_ball:
+<h3 align="left"> > Hiya!:rice_ball:
 </h3>
 
 <p>
